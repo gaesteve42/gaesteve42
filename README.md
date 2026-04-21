@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning : **Unity, Typescript, React**
 
-- 📫 How to reach me : **estevegauthier@gmail.com**
-
 - 📄 Know about my experiences: Finished 42 cursus, looking for internship
 
 <h3 align="left">Languages and Tools:</h3>
