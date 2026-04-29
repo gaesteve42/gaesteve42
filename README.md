@@ -36,12 +36,11 @@ Projects from the 42 curriculum.
 | [ft_printf](https://github.com/gaesteve42/ft_printf) | 100/100 | Recreation of the `printf` function | C |
 | [get_next_line](https://github.com/gaesteve42/get_next_line) | 125/100 | Reading from a file descriptor line by line | C |
 | [Minitalk](https://github.com/gaesteve42/Minitalk) | 125/100 | Inter-process communication with signals | C |
-| [so_long](https://github.com/gaesteve42/so_long) | 100/100 | Small 2D game using MiniLibX | C |
+| [fractol](https://github.com/gaesteve42/fractol) | 100/100 | Real-time fractal explorer with infinite zoom and graphical rendering using MiniLibX. | C |
 | [push_swap](https://github.com/gaesteve42/push_swap) | 125/100 | Sorting algorithm project | C |
 | [minishell](https://github.com/gaesteve42/minishell) | 101/100 | Small Unix shell with parsing, builtins, pipes and redirections | C |
 | [Philosophers](https://github.com/gaesteve42/Philosophers) | 100/100 | Dining philosophers simulation with threads and mutexes | C |
 | [cub3D](https://github.com/gaesteve42/cub3D) | 105/100 | Raycasting engine with MiniLibX and `.cub` parsing | C |
 | [Inception](https://github.com/gaesteve42/Inception) | 100/100 | Dockerized infrastructure with NGINX, WordPress and MariaDB | Docker / Shell |
 | [ft_irc](https://github.com/gaesteve42/ft_irc) | 100/100 | Multi-client IRC server built in C++98 with sockets and `poll()` | C++98 |
-| [CPP Modules](https://github.com/gaesteve42/CPP) | 100/100 | C++98 modules from `Module_00` to `Module_09` | C++98 |
 | [ft_transcendence](https://github.com/gaesteve42/ft_transcendence) | 115/100 | Full-stack web project built with React, NestJS and TypeScript | TypeScript |
