@@ -34,7 +34,6 @@ Projects from the 42 curriculum.
 |---------|-------|-------------|------|
 | [Libft](https://github.com/gaesteve42/Libft) | 125/100 | First custom C library | C |
 | [ft_printf](https://github.com/gaesteve42/ft_printf) | 100/100 | Recreation of the `printf` function | C |
-| [Born2beroot](https://github.com/gaesteve42/Born2beroot) | 100/100 | System administration and virtual machine setup | VM |
 | [get_next_line](https://github.com/gaesteve42/get_next_line) | 125/100 | Reading from a file descriptor line by line | C |
 | [Minitalk](https://github.com/gaesteve42/Minitalk) | 125/100 | Inter-process communication with signals | C |
 | [so_long](https://github.com/gaesteve42/so_long) | 100/100 | Small 2D game using MiniLibX | C |
