@@ -42,4 +42,4 @@ Projects from the 42 curriculum.
 | [Philosophers](https://github.com/gaesteve42/Philosophers) | 100/100 | Dining philosophers simulation with threads and mutexes | C |
 | [Inception](https://github.com/gaesteve42/Inception) | 100/100 | Dockerized infrastructure with NGINX, WordPress and MariaDB | Docker / Shell |
 | [ft_irc](https://github.com/gaesteve42/ft_irc) | 100/100 | Multi-client IRC server built in C++98 with sockets and `poll()` | C++98 |
-| [ft_transcendence](https://github.com/gaesteve42/ft-transcendence) | 115/100 | Full-stack web project built with React, NestJS and TypeScript | TypeScript |
+| [ft_transcendence](https://github.com/gaesteve42/ft-transcendence) | 115/100 | Full-stack web project built with React, NestJS and TypeScript | TypeScript / React |
